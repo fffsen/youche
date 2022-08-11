@@ -13,6 +13,8 @@ public class User {
 
     private String createTime;
 
+    private String updateTime;
+
     public Integer getId() {
         return id;
     }
