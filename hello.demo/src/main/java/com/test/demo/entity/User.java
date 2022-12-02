@@ -11,6 +11,10 @@ public class User {
 
     private int age;
 
+    private String createTime;
+
+    private String updateTime;
+
     public Integer getId() {
         return id;
     }
