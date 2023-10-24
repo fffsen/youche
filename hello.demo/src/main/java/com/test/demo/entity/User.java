@@ -11,6 +11,8 @@ public class User {
 
     private int age;
 
+    private int num;
+
     private String createTime;
 
     private String updateTime;
